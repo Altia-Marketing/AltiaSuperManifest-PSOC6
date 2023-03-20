@@ -1,7 +1,7 @@
 <super-manifest version="2.0">
   <app-manifest-list>
     <app-manifest>
-      <uri>https://github.com/Altia-Marketing/altia-ce-manifest/raw/master/altia-ce-manifest-fv2.xml</uri>
+      <uri>https://github.com/Altia-Marketing/altia-ce-manifest/raw/main/altia-ce-manifest-fv2.xml</uri>
     </app-manifest>
   </app-manifest-list>
 </super-manifest>
